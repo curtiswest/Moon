@@ -1,37 +1,35 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, Curtis West]
+date: 2016-06-16
 comments: false
+feature: /assets/img/logo.png
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Hey, I'm a soon-to-be graduate Software Engineer from Brisbane, Australia. I'll be graduating with a [Bachelor of Engineering (Advanced Studies) with Honours](https://degrees.griffith.edu.au/Program/1320/Overview), majoring in Software.
 
-## Preview
+### Areas of Study
+Thankfully, I've been exposed to all different areas of the software engineering trade during my degree:
+* Mobile programming, particularly with iOS and Swift
+* Embedded programming, including Assembly and use/design of RTOS
+* Project management, managing a year-long mobile virtual reality development project for an Industry partner
+* Research, working on inertial sensor fusion for athlete performance analysis and a custom photogrammetry system
+* Software architecture theory and analysis, including reverse-engineering open source projects' architectures
+* Database design and administration, including a capstone demonstration project
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+### Areas of Interest
+Some of my software-related areas of interest include:
+* Mobile app development
+* UIX
+* Embedded device development
+* Systems development
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Not to mention my [photography hobby](https://www.flickr.com/photos/seewesty) :)
 
-## Getting Started
+### Contact Me
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Feel free to contact me on any of the platforms below. You can also see my profiles around the place on my [homepage](/).
+
+[Email Me](mailto:curtis@curtiswest.net){: .btn}
+[Telegram Me](https://t.me/curtiswest){: .btn}
