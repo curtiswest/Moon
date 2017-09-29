@@ -1,1 +1,1 @@
-[curtiswest.net](curtiswest.net)
+[curtiswest.net](https://curtiswest.net)
