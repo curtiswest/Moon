@@ -6,7 +6,7 @@ excerpt: "Lessons learned during the year-long management of a mobile VR app's d
 feature: http://i.imgur.com/T5Ffpsh.png
 tag:
 - project management
-comments: false
+comments: true
 ---
 
 Griffith University software engineering students undertake a year-long project with an industry partner for exposure to a real-world project with a real-world client. As project manager (and 3D modeler - but that's a post for another time), I was tasked with documenting and managing the overall progress of the project, including ensuring that team members were capitalising on our diverse skill-sets to deliver maximum (and timely) results. Along the way, I learned several valuable lessons, implemented solutions to assist the team and developed skills in managing and communicating with my team.
